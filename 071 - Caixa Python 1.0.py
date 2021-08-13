@@ -1,3 +1,5 @@
+'''PROGRAMA QUE LEIA UM VALOR PARA SAQUE E MOSTRE A DIIVISÃO DO VALOR EM CÉDULAS.'''
+
 print('='*30)
 print('{:^30}'.format('BANCO DIGITAL'))
 print('='*30)
