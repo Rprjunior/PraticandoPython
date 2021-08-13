@@ -26,6 +26,7 @@ while True:
         total_cedulas = 0
         if saque == 0 or saque == 1:
             break
+
 print('='*30)
 print('{:^30}'.format('OPERAÇÃO FINALIZADA'))
 print('{:^30}'.format('VOLTE SEMPRE'))
