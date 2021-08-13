@@ -1,6 +1,11 @@
+print('='*30)
+print('{:^30}'.format('BANCO DIGITAL'))
+print('='*30)
+
 saque = int(input('Qual o valor do saque. R$ '))
 cedula = 100
 total_cedulas = 0
+
 while True:
     if saque >= cedula:
         saque = saque - cedula
@@ -21,5 +26,6 @@ while True:
         total_cedulas = 0
         if saque == 0 or saque == 1:
             break
+print('='*30)
 print('{:^30}'.format('OPERAÇÃO FINALIZADA'))
 print('{:^30}'.format('VOLTE SEMPRE'))
