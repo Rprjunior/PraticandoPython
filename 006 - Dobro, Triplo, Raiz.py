@@ -1,4 +1,4 @@
-'''006 - OPERAÇÕE MATEMÁTICAS.
+'''006 - OPERAÇÕES MATEMÁTICAS.
 PROGRAMA QUE LEIA UM VALOR E MOSTRE SEU DOBRO / TRIPLO / RAIZ / RAIZ CÚBICA.'''
 
 n1 = int(input('Digite um valor: '))
